@@ -10,6 +10,8 @@ FULL Project and Database Included
 - Medical Test
 - Profiles
 
+User/Admin Login : kano@hackday.com : Pass@1234
+
 ## How to Contribute
 
 Make A Clone of the Project
@@ -17,7 +19,6 @@ Make A Clone of the Project
 1. Create your working branch
 2. Edit the codes and push to your own branch (Kindly avoid pushing to master)
 3. Create a new pull request and await merge
-4. User/Admin Login : kano@hackday.com : Pass@1234
 
 
 ## Setup Project on Local PC
