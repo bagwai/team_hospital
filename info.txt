@@ -1,6 +1,3 @@
 Members:
-	Daniel Roach
-	Arshdeep Khalsa
-	Joe Cumbo
-	kaiwen zheng
-	David Lor
+	Ahmad Abdulnasir
+	
