@@ -4,3 +4,4 @@ Members:
 	Joe Cumbo
 	kaiwen zheng
 	David Lor
+    Algebra
