@@ -1,7 +1,12 @@
 Members:
+<<<<<<< HEAD
 	Daniel Roach
 	Arshdeep Khalsa
 	Joe Cumbo
 	kaiwen zheng
 	David Lor
     Algebra
+=======
+	Ahmad Abdulnasir
+	
+>>>>>>> a40be63c42d54644af2541bcd79c781deaab7481
